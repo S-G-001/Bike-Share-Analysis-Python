@@ -1,4 +1,4 @@
-# Bike-Share-Analysis-Python
+# Bike Share Analysis Python
 This capstone project is conducted as a part of the Google Analytics Professional Certificate.
 The project follows the following 5 steps to keep the analytics project organized and efficient: Ask, Prepare, Process, Analyze, Share.
 
